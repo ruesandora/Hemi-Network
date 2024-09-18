@@ -1,12 +1,7 @@
 
 # Hemi Network Cli-Miner Kurulumu
 
-> herhangi bir donanıma ihtiyaç yok sunucunuza kurabilirsiniz (çoklu sunucu reposu yakında)
-
-> (Opsiyonel) [Buradan](https://points.absinthe.network/hemi/d/connections) node kurmak istemeynler işlem yapabilir: `e2733fa6`
-
-> (Opsiyonel) [Buradan](https://pop-miner.hemi.xyz/) da ana PC'de kurulum için.
-
+> Birden fazla sunucuya kurulum için (aynı cüzdanla)
 
 ## Kurulum Aşaması
 
