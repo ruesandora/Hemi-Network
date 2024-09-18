@@ -1,8 +1,11 @@
 
 # Hemi Network Cli-Miner Kurulumu
 
-Projenin gereksinimlerini göremedim, kendi kurulumum da gördüğüm kadarıyla da neredeyse herhangi bir şey kullanmıyor. O yüzden minimumda tutabilirsiniz özellikleri veya kuran arkadaşlar chat'ten geri bildirimde bulunursa ona göre düzenleriz.
+> herhangi bir donanıma ihtiyaç yok sunucunuza kurabilirsiniz (çoklu sunucu reposu yakında)
 
+> [Buradan](https://points.absinthe.network/hemi/d/connections) node kurmak istemeynler işlem yapabilir: `e2733fa6`
+
+> [Buradan](https://pop-miner.hemi.xyz/) da ana PC'de kurulum için.
 
 
 ## Kurulum Aşaması
