@@ -5,7 +5,7 @@
 
 > (Opsiyonel) [Buradan](https://points.absinthe.network/hemi/d/connections) node kurmak istemeynler işlem yapabilir: `e2733fa6`
 
-> [Buradan](https://pop-miner.hemi.xyz/) da ana PC'de kurulum için.
+> (Opsiyonel) [Buradan](https://pop-miner.hemi.xyz/) da ana PC'de kurulum için.
 
 
 ## Kurulum Aşaması
